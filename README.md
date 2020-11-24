@@ -1,5 +1,5 @@
-#gosocket-chat
+# gosocket-chat
 
-##Running
+## Running
 
     go run main.go
